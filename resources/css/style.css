@@ -15,8 +15,14 @@ h1 {
 a {
     color: aquamarine;
     font-size: 16px;
+    display: block;
 }
 
 h1#top-header {
     padding-top: 20px;
+}
+
+#phonevideo {
+    display: inline-block;
+    margin-top: 20px;
 }
