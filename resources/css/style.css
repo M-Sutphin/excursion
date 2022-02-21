@@ -43,3 +43,11 @@ h1#top-header {
 .icon {
     padding-top: 20px;
 }
+
+span#footertext {
+    float:right;
+    color: gray;
+    font-size: 20px;
+    margin-right: 20px;
+    margin-top:20px;
+}
