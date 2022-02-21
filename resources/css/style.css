@@ -39,3 +39,7 @@ h1#top-header {
     display: inline-block;
     margin-top: 20px;
 }
+
+.icon {
+    padding-top: 20px;
+}
